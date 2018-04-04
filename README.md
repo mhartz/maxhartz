@@ -1,18 +1,27 @@
-# MaxHartz.com Website
-1. Starting an initial portfolio website
-2. Using VueJS (first timer)
-3. Going to add other sites/projects/POC/prototypes/etc. as subdomains of the site
-4. Core BE in future
+# maxhartz
 
-# Todo:
-1. SSL
-2. Install webpack/vueJS
-3. Connect git
-4. Re-check security
-5. Setup site on server
+> Portfolio website
 
+## Build Setup
 
-# Tech Stack:
-1. VueJS
-2. MySQL
-3. Core
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
